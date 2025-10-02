@@ -11,7 +11,7 @@ Hello! I’m Milcha Balbin, a passionate web developer eager to create responsiv
 
 ## Live Site
 Check out my live portfolio here: [https://github.com/milchabalbin640-ux/balbin-portfolio?authuser=0]
-
+Check out my Repo here: [https://milchabalbin640-ux.github.io/balbin-portfolio/]
 ## Technologies Used
 - HTML5
 - CSS3
